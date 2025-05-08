@@ -23,7 +23,7 @@ Create your own cryptocurrency token in just 3 easy steps - no technical knowled
 3. Approve the connection request in your wallet
 4. Make sure you're connected to FiraChain network
 
-> 💡 *Don't have FiraChain in your wallet? [Add FiraChain Network](#)*
+> 💡 *Don't have FiraChain in your wallet? [Add FiraChain Network](https://chainlist.org/chain/194))*
 
 ### 2️⃣ Enter Token Details
 Fill in the form with your token's specifications:
