@@ -68,9 +68,6 @@ No - name, symbol and decimals are permanent
 ### ❓ Where's my contract address?
 Displayed after deployment - copy it from the success screen
 
-### ❓ How do I get FIRA tokens?
-Get testnet FIRA from [FiraChain Faucet](#)
-
 ---
 
 ## Need Help?
